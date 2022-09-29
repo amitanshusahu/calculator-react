@@ -14,4 +14,5 @@ $ npm start
 <code>
 $ npm build
 </code>
+
 <i> you can go to the build folder and open index.html in your browser(drag-drop or double click) </i>
